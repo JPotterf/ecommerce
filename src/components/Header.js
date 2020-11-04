@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import logo from './templogo.PNG'
+import logo from '../images/templogo.PNG'
 import SearchIcon from '@material-ui/icons/Search';
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 
